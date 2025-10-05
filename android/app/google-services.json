@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103117128099",
+    "project_id": "inky-planner",
+    "storage_bucket": "inky-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103117128099:android:bc4404eafba955fccc5a16",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJpE2gP80OdfO8n5NL_hcRFoOJmwqEEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103117128099:android:4597561bd18bd452cc5a16",
+        "android_client_info": {
+          "package_name": "com.inkydigital.inkyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJpE2gP80OdfO8n5NL_hcRFoOJmwqEEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

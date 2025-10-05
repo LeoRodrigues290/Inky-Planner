@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"inky-planner","appId":"1:103117128099:android:bc4404eafba955fccc5a16","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"inky-planner","configurations":{"android":"1:103117128099:android:bc4404eafba955fccc5a16","web":"1:103117128099:web:df6bcf1d093b404fcc5a16"}}}}}}
